@@ -1,1 +1,2 @@
-
+Project Overview:
+This project involves creating an AI-powered agent that can take a dataset (in CSV or Google Sheets format) and, for a specified column, perform web searches to retrieve relevant information for each entry in that column. Leveraging an LLM (Large Language Model), the agent will parse web search results to find targeted information based on a user-defined query, format it in a structured format, and present the findings in a simple, user-friendly dashboard.
